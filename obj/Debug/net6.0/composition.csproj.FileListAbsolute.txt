@@ -1,0 +1,15 @@
+C:\ws-vs2022\composition\composition\bin\Debug\net6.0\composition.exe
+C:\ws-vs2022\composition\composition\bin\Debug\net6.0\composition.deps.json
+C:\ws-vs2022\composition\composition\bin\Debug\net6.0\composition.runtimeconfig.json
+C:\ws-vs2022\composition\composition\bin\Debug\net6.0\composition.dll
+C:\ws-vs2022\composition\composition\bin\Debug\net6.0\composition.pdb
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.csproj.AssemblyReference.cache
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.AssemblyInfoInputs.cache
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.AssemblyInfo.cs
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.dll
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\refint\composition.dll
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.pdb
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\composition.genruntimeconfig.cache
+C:\ws-vs2022\composition\composition\obj\Debug\net6.0\ref\composition.dll
