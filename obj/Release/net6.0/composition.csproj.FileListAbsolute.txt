@@ -1,0 +1,5 @@
+C:\ws-vs2022\composition\composition\obj\Release\net6.0\composition.csproj.AssemblyReference.cache
+C:\ws-vs2022\composition\composition\obj\Release\net6.0\composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\composition\composition\obj\Release\net6.0\composition.AssemblyInfoInputs.cache
+C:\ws-vs2022\composition\composition\obj\Release\net6.0\composition.AssemblyInfo.cs
+C:\ws-vs2022\composition\composition\obj\Release\net6.0\composition.csproj.CoreCompileInputs.cache
